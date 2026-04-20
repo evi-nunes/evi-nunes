@@ -10,6 +10,8 @@ Me chamo Évila, tenho 24 anos e sou natural de Fortaleza-Ce. Atualmente curso A
 
 #
 
+<img align="right" alt="" height="190px" src="./assets/naruto.gif">
+
 <h3 align="left">Meus contatos!</h3>
 
 [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FF00F6&color:FFF)](evillanunes13@gmail.com)
