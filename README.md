@@ -22,15 +22,6 @@ Me chamo Évila, tenho 24 anos e sou natural de Fortaleza-Ce. Atualmente curso A
 
 <img 
     align="left" 
-    alt="SQL"
-    title="HTML" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" 
-/>
-
-<img 
-    align="left" 
     alt="HTML"
     title="HTML" 
     width="30px" 
@@ -72,6 +63,15 @@ Me chamo Évila, tenho 24 anos e sou natural de Fortaleza-Ce. Atualmente curso A
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
+/>
+
+<img 
+    align="left" 
+    alt="SQL"
+    title="SQL" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" 
 />
 
 <br/>
