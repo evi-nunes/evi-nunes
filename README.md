@@ -22,7 +22,7 @@ Me chamo Évila, tenho 24 anos e sou natural de Fortaleza-Ce. Atualmente curso A
 
 <img 
     align="left" 
-    alt="HTML"
+    alt="SQL"
     title="HTML" 
     width="30px" 
     style="padding-right: 10px;" 
